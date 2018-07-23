@@ -21,3 +21,14 @@ $RECYCLE.BIN/
 # =========================
 # Operating System Files
 # =========================
+/databases/
+/logfiles/
+/新建文件夹/
+/others/
+/wwwroot/u/
+/wwwroot/simsun.ttc
+/wwwroot/favicon.ico
+/wwwroot/新建文件夹/
+/wwwroot/images/
+/team20180605.sql
+/wwwroot20180605.rar
