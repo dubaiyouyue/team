@@ -6,7 +6,6 @@ header("Content-Type: text/html; charset=utf-8");
 // store session data
 
 
-
 $dbms='mysql';     //数据库类型
 $host='localhost'; //数据库主机名
 $dbName='team';    //使用的数据库
