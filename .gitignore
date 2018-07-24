@@ -24,6 +24,7 @@ $RECYCLE.BIN/
 /databases/
 /logfiles/
 /新建文件夹/
+/cache/
 /others/
 /wwwroot/u/
 /wwwroot/simsun.ttc
@@ -32,3 +33,10 @@ $RECYCLE.BIN/
 /wwwroot/images/
 /team20180605.sql
 /wwwroot20180605.rar
+/upload/
+/Uploads/
+/images/
+/Cache/
+/布局/
+/tx/
+/config/config_db.php
